@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/susaksham08" target="blank"><img src="https://img.shields.io/twitter/follow/susaksham08?logo=twitter&style=for-the-badge" alt="susaksham08" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Javascript , Java**
 
