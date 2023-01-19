@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Javascript , Java**
+- 💬 Ask me about **Javascript ,React Js ,Css ,HTML, Java, Node.js , Express.js**
 
 - 📫 How to reach me **sakshamyogesh@gmail.com**
 
