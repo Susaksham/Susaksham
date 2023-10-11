@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Susaksham Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 
 <!-- <p><img align="top" width="100%" alt="Coding" src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif"></p> -->
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Javascript ,React Js ,Css ,HTML, Java, Node.js , Express.js**
+- 💬 Ask me about **React Js, Next Js , Redux , JavaScript , TypeScript , Java , HTML5 , CSS3 , Tailwind CSS , Node JS, Express Js and SQL**
 
 - 📫 How to reach me **sakshamyogesh@gmail.com**
 
