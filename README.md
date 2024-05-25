@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Susaksham Jain</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">I am a full-stack developer from India</h3>
 
 
 <!-- <p><img align="top" width="100%" alt="Coding" src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif"></p> -->
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/susaksham08" target="blank"><img src="https://img.shields.io/twitter/follow/susaksham08?logo=twitter&style=for-the-badge" alt="susaksham08" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **React Js, Next Js , Redux , JavaScript , TypeScript , Java , HTML5 , CSS3 , Tailwind CSS , Node JS, Express Js and SQL**
 
